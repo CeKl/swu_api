@@ -1,0 +1,4 @@
+swu_api.egg-info/
+build
+dist
+__pycache__/
