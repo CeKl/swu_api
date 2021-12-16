@@ -4,8 +4,8 @@ Python libary for the use of the public transport and carsharing API of the Stad
 
 [![Python](https://img.shields.io/pypi/pyversions/swu_api.svg)](https://badge.fury.io/py/swu_api)
 [![PyPI](https://badge.fury.io/py/swu_api.svg)](https://badge.fury.io/py/swu_api)
-[![Python](https://img.shields.io/github/license/CeKl/dev_swu_api.svg)](https://opensource.org/licenses/MIT)
-[![DeepSource](https://deepsource.io/gh/CeKl/dev_swu_api.svg/?label=active+issues&token=qITdjDkP_9a7eS5lCgccaIHO)](https://deepsource.io/gh/CeKl/swu_api/?ref=repository-badge)
+[![Python](https://img.shields.io/github/license/CeKl/swu_api.svg)](https://opensource.org/licenses/MIT)
+[![DeepSource](https://deepsource.io/gh/CeKl/swu_api.svg/?label=active+issues&token=uDt855wK6_Wc_IGYgHk4ov8Y)](https://deepsource.io/gh/CeKl/swu_api/?ref=repository-badge)
 
 Details and documentation of the API can be found on their website: <https://api.swu.de/mobility/>.
 
