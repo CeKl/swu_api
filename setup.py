@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 
 README = (HERE / "README.md").read_text()
 
-VERSION = '0.1'
+VERSION = '0.1.1'
 DESCRIPTION = 'Python libary for the use of the public transport and carsharing API of the Stadtwerke Ulm / Neu-Ulm (SWU).'
 
 setup(

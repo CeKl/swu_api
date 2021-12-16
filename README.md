@@ -27,6 +27,7 @@ Principle of using API requests: As much as necessary and as little as possible.
     - [save API examples](#save-api-examples)
   - [Release Notes](#release-notes)
     - [0.1](#01)
+    - [0.1.1](#011)
 
 ## Install
 
@@ -44,7 +45,7 @@ With the help of swu_demo_data you can download examples of the API data and sav
 
 ## Usage
 
-Short example are listed below. Details are listed in the notebook.
+Short example are listed below. Details are listed in the notebook [example_carsharing](https://github.com/CeKl/dev_swu_api/blob/main/examples/example_carsharing.ipynb) and [example_public_transport](https://github.com/CeKl/dev_swu_api/blob/main/examples/example_public_transport.ipynb).
 
 ### example for helper functions
 
@@ -116,6 +117,10 @@ swu_demo = api_to_json(save_filter='all', folderpath='C:/Users/Default/Desktop/s
 ### 0.1
 
 - Initial release
+
+### 0.1.1
+
+- Fix Readme
 
 - - -
 [MIT License](https://opensource.org/licenses/MIT) Copyright (c) 2021 Cedric Klimt
